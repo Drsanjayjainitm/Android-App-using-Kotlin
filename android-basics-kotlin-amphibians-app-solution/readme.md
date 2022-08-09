@@ -1,3 +1,3 @@
-Amphibians App project solution 
+# Project: Amphibians App using Kotlin Solution
+### Folder contain the solution code of Amphibians App using Kotlin Solution
 
-The folder contain the solution code of Amphibians App project.
